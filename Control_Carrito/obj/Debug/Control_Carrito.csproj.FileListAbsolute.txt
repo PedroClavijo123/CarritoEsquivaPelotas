@@ -1,0 +1,114 @@
+c:\users\jose pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\Jose Pinto\documents\visual studio 2015\Projects\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\mscorlib.dll
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\System.Net.Http.dll
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\System.Net.Http.xml
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\es\mscorlib.resources.dll
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\normidna.nlp
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\normnfc.nlp
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\normnfd.nlp
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\normnfkc.nlp
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\bin\Debug\normnfkd.nlp
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\EDITHA\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+H:\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+H:\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+H:\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+H:\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Video.dll
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Video.xml
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\USUARIO\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\GREG-PC\Desktop\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\CAR1\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.Cache
+F:\disco C\escritorio\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+F:\disco C\escritorio\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+F:\disco C\escritorio\curs\robotica 2017\carv2\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe.config
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.exe
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\Control_Carrito.pdb
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\AForge.dll
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\AForge.Imaging.dll
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\bin\Debug\AForge.Math.dll
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csprojAssemblyReference.cache
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Form1.resources
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.Properties.Resources.resources
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.GenerateResource.cache
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.CoreCompileInputs.cache
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.csproj.CopyComplete
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.exe
+C:\Users\myHP\Desktop\carrito\Control_Carrito\Control_Carrito\obj\Debug\Control_Carrito.pdb
